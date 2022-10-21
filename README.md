@@ -16,17 +16,17 @@
 
 
 My own libC.
-## At the time of writing, this libft contains :<br>
+## At the time of writing, this libft contains :
 ### libmem
 - ft_bzero
 - ft_mem(...)
 ### libstr
 - ft_str(...)
-### libnb<br>
+### libnb
 - ft_(...)atoi(...)
 - ft_itoa
 - ft_swap(...)
-### libchar<br>
-- ft_is(...)<br>
-### libfd<br>
+### libchar
+- ft_is(...)
+### libfd
 - ft_put(...)
