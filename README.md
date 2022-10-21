@@ -13,17 +13,19 @@
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/isaad18/42-libft?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/isaad18/42-libft?color=green" />
 </p>
-My own libC.<br>
+
+
+My own libC.
 ## At the time of writing, this libft contains :<br>
-### libmem<br>
-- ft_bzero<br>
-- ft_mem(...)<br>
-### libstr<br>
-- ft_str(...)<br>
+### libmem
+- ft_bzero
+- ft_mem(...)
+### libstr
+- ft_str(...)
 ### libnb<br>
-- ft_(...)atoi(...)<br>
-- ft_itoa<br>
-- ft_swap(...)<br>
+- ft_(...)atoi(...)
+- ft_itoa
+- ft_swap(...)
 ### libchar<br>
 - ft_is(...)<br>
 ### libfd<br>
